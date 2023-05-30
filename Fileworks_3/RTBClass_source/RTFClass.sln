@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RTFClass", "RTFClass.vbproj", "{DDD3A545-DE0B-4D45-94F4-ECA5B2D26765}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DDD3A545-DE0B-4D45-94F4-ECA5B2D26765}.Debug.ActiveCfg = Debug|.NET
+		{DDD3A545-DE0B-4D45-94F4-ECA5B2D26765}.Debug.Build.0 = Debug|.NET
+		{DDD3A545-DE0B-4D45-94F4-ECA5B2D26765}.Release.ActiveCfg = Release|.NET
+		{DDD3A545-DE0B-4D45-94F4-ECA5B2D26765}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
